@@ -1,8 +1,6 @@
-# Hello World!
-
 ## Welcome floppydisk525 GitHub Pages
 
-Welcome to Floppy Disk github.io page.  My name is Floppydisk525.  
+Welcome to Floppy Disk github.io page.  
 
 ### Projects
 
